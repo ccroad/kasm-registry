@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'ChrisCs Custom KASM Registry',
     description: 'ChrisCs KASM Workspaces',
     icon: 'https://github.com/simple-icons/simple-icons/blob/develop/icons/answer.svg',
-    listUrl: 'https://https://github.com/ccroad/kasm-registry/',
+    listUrl: 'https://github.com/ccroad/kasm-registry/',
     contactUrl: 'https://github.com/ccroad/kasm-registry/issues',
   },
   reactStrictMode: true,
